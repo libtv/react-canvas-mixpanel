@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+# <div align="center"> React Canvas MixPannel </div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+React Canvas MixPannel
 
-In the project directory, you can run:
+리액트 캔버스를 연습하기 위해 작성한 글입니다.
 
-### `npm start`
+Canvas 연습을 위해 구글에 React Canvas 를 검색했더니 아래와 같은 사진이 나오게 되었습니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src="./readmeImg/dev1-thumbnail.webp">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+인터랙티브 한 모션과 그래픽으로 한 눈에 사로잡혔고, 클론코딩을 하기 위해 먼저 Canvas 에 관련된 내용들을 공부하면서 작성해보았습니다. 위의 사진의 인터랙티브한 모션을 보고 싶다면 아래 링크를 눌러주세요.
 
-### `npm test`
+https://blog.dalgu.app/examples/canvas/stage-lighting-wave
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `npm run build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## RESULT
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="./readmeImg/screenshot.png">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+-   실행 방법
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+git clone https://github.com/libtv/react-canvas-mixpanel.git
+cd react-canvas-mixpanel
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm install --save
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+간단하게 코드를 구성했으며 리팩토링 하지 않아서, 이해하기 쉬운 코드라고 생각합니다.
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## REFERENCE
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-   https://mixpanel.com/ko/
+-   https://blog.dalgu.app/dev/1#5-requestAnimationFrame()-API-clearRect()-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A1%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EB%8F%99%EC%9E%91%EC%8B%9C%ED%82%A4%EA%B8%B0
+-   https://velog.io/@mokyoungg/React-React%EC%97%90%EC%84%9C-Canvas-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%EB%A7%88%EC%9A%B0%EC%8A%A4-%EA%B7%B8%EB%A6%AC%EA%B8%B0
+-   https://www.youtube.com/watch?v=VyxrQ7-8QiY&ab_channel=%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85
