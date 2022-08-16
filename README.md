@@ -2,15 +2,16 @@
 
 <div align="center">
 
-React Canvas MixPannel
-
-리액트 캔버스를 연습하기 위해 작성한 글입니다.
+React Canvas MixPannel <br>
+리액트 캔버스를 연습하기 위해 작성한 글입니다. <br>
 
 Canvas 연습을 위해 구글에 React Canvas 를 검색했더니 아래와 같은 사진이 나오게 되었습니다.
 
 <img src="./readmeImg/dev1-thumbnail.webp">
 
-인터랙티브 한 모션과 그래픽으로 한 눈에 사로잡혔고, 클론코딩을 하기 위해 먼저 Canvas 에 관련된 내용들을 공부하면서 작성해보았습니다. 위의 사진의 인터랙티브한 모션을 보고 싶다면 아래 링크를 눌러주세요.
+인터랙티브 한 모션과 그래픽으로 한 눈에 사로잡혔고, <br>
+클론코딩을 하기 위해 먼저 Canvas 에 관련된 내용들을 공부하면서 작성해보았습니다. <br>  
+위의 사진의 인터랙티브한 모션을 보고 싶다면 아래 링크를 눌러주세요.
 
 https://blog.dalgu.app/examples/canvas/stage-lighting-wave
 
